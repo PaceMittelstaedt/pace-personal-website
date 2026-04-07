@@ -14,6 +14,8 @@ format: html
 editor: visual
 ---
 
+New line
+
 I am currently a graduate student at Oklahoma State University set to complete my Master's degree in Animal Science in May 2026. While pursuing this degree, I also served as the Assistant Livestock Judging Coach for the university. Upon graduation, I will begin working for Seaboard Foods as a Commercial Operations Trainee. In my spare time, I aim to put my livestock judging experience to use while judging livestock shows and helping exhibitors with their projects around the country.
 
 Projects I worked on while obtaining my Master's degree were focused on livestock judging. I was a part of a team that completed an updated version of our Oklahoma State Livestock Judging Manual. As a tool for FFA and 4H programs to educate their members as well as a guide for livestock judgers at any level, the manual was in need of an extensive review and overhaul. I am also in the process of completing a comprehensive historical review of the livestock judging program at Oklahoma State University that details our tradition of excellence from the turn of the century to our current team.
