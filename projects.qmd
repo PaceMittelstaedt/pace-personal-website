@@ -1,0 +1,14 @@
+---
+title: "Projects"
+format: html
+---
+
+As lead author:
+
+[OSU Livestock Judging Manual](manual.pdf){target="_blank"}
+
+[OSU LIvestock Judging Historical Review](review.pdf)
+
+Both of these projects have been collaborative efforts with help from numerous fellow students and OSU Department of Animal Science Faculty members.
+
+![](images/bull.jpeg)
